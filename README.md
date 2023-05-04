@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/yourusername/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=splo2t)](https://github.com/splo2t)
 
 ## 🛠️ Technologies & Tools
 
