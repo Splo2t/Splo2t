@@ -22,7 +22,7 @@
 - **CPSRank: Unsupervised Keyphrase Extraction via Contextual Perturbation**<br>
   **Hyunwook. Yu**, M. Kim, E. Kim, M. Kim, <br>
   *CIKM 2025 (Short Paper)* | *ACM International Conference on Information and Knowledge Management* | *[BKCSA IF 3]*<br>
-  [Paper](https://dilab-cau.synology.me:5001/d/s/14UNw8ui8lcEN8Wm5u3q0osO5IPMUO7F/XcYF0eJdKwZqP1NpCOV3cxibZUqya9mZ-DrbAeBS8fQw) | [Code](https://github.com/Splo2t/CPSRank)<br>
+  [Paper](https://dilab-cau.synology.me:5001/d/s/14UQK3ZNl8YrTIaUFJz9LORz6DNyqoiy/aQN274WzvN9ge5tSAdU_PIAmvurlfHjY--L8AQ6nDfQw) | [Code](https://github.com/Splo2t/CPSRank)<br>
 
 - **KRongBERT: Enhanced factorization-based morphological approach for the Korean pretrained language model**<br>
   **Hyunwook. Yu**, Y. Cho, G. Park, M. Kim, <br>
