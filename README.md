@@ -1,6 +1,9 @@
-[![Github Badge](https://img.shields.io/badge/-Splo2t-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Splo2t/)](https://www.github.com/Splo2t/) ![Outlook Badge](https://img.shields.io/badge/-yu990410@gmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:yu990410@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=2_tULZsAAAAJ&hl=ko) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://kr.linkedin.com/in/hyunwook-yu-20a3b0275) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yu990410@gmail.com)
+
+
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=Header&text=Hi%20there&fontSize=70&fontAlignY=35)
 
+[![Github Badge](https://img.shields.io/badge/-Splo2t-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Splo2t/)](https://www.github.com/Splo2t/)
 # Hi there, I'm Hyunwook Yu 👋
 
 ## I'm currently studying at Chung-Ang University's [Data Intelligence Lab](https://sites.google.com/view/dilabcau/home)
