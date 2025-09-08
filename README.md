@@ -30,7 +30,7 @@
   [Paper](https://www.sciencedirect.com/science/article/pii/S0306457325000147) | [Code](https://github.com/Splo2t/KRongBERT)<br>
 
 - **Action-Concentrated Embedding Framework: This is your captain sign-tokening**<br>
-  **Hyunwook. Yu**, S. Sin, J. Heo, H.Shin, H Kim, M Kim, <br>
+  **Hyunwook. Yu\***, **S. Sin\***, J. Heo, H.Shin, H Kim, M Kim, <br>
   *LREC-COLING 2024* | *Joint International Conference on Computational Linguistics, Language Resources and Evaluation* | *[BKCSA IF 2]*<br>
   [Paper](https://aclanthology.org/2024.lrec-main.29/) | [Code](https://github.com/Splo2t/action_concentrated_embedding)<br>
   
