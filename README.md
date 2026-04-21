@@ -19,6 +19,11 @@
 - Data Science
 
 ## Publications <small>(* indicates equal contributions)</small><br>
+- **Forget and Explain: Transparent Verification of GNN Unlearning**<br>
+  I Ahsan, **Hyunwook. Yu**, J. Kim, M. Kim, <br>
+  *WSDM 2026 (Short Paper)* | *ACM International Conference on Web Search and Data Mining* | *[BKCSA IF 3]*<br>
+  [Paper](https://dl.acm.org/doi/pdf/10.1145/3773966.3779386) <br>
+
 - **CPSRank: Unsupervised Keyphrase Extraction via Contextual Perturbation**<br>
   **Hyunwook. Yu**, M. Kim, E. Kim, M. Kim, <br>
   *CIKM 2025 (Short Paper)* | *ACM International Conference on Information and Knowledge Management* | *[BKCSA IF 3]*<br>
