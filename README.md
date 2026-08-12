@@ -24,7 +24,7 @@
   *CIKM 2026* | *ACM International Conference on Information and Knowledge Management* | *[BKCSA IF 3]*<br>
   <br>
   
-- **Graph-to-Cache Indexing for Label-Limited On-Device Text Classification**<br>
+- **Not All Segmentation Is Equal: How Quality Filters Evaluate Structure**<br>
   M. Kim, **Hyunwook. Yu**, M. Kim, <br>
   *CIKM 2026 (Short Paper)* | *ACM International Conference on Information and Knowledge Management* | *[BKCSA IF 3]*<br>
   <br>
