@@ -50,6 +50,7 @@
   [Paper](https://aclanthology.org/2024.lrec-main.29/) | [Code](https://github.com/Splo2t/action_concentrated_embedding)<br>
   
 ## Professional Services
+- Conference Reviewer — CIKM 2026
 - Open-Source Contributor — Contributed approved PR to Hugging Face [`peft`](https://github.com/huggingface/peft)  <br>
 - Adjunct Instructor, “Basic of computer system” (CAU, Spring 2025)<br>
 
