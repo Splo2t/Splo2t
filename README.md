@@ -19,6 +19,16 @@
 - Data Science
 
 ## Publications <small>(* indicates equal contributions)</small><br>
+- **Mitigating the Morpheme Tokenization Bottleneck in Agglutinative Languages: A Korean Case Study with Interleave Attention**<br>
+  **Hyunwook. Yu**, M. Kim, M. Kim, <br>
+  *CIKM 2026* | *ACM International Conference on Information and Knowledge Management* | *[BKCSA IF 3]*<br>
+  <br>
+  
+- **Graph-to-Cache Indexing for Label-Limited On-Device Text Classification**<br>
+  M. Kim, **Hyunwook. Yu**, M. Kim, <br>
+  *CIKM 2026 (Short Paper)* | *ACM International Conference on Information and Knowledge Management* | *[BKCSA IF 3]*<br>
+  <br>
+  
 - **Forget and Explain: Transparent Verification of GNN Unlearning**<br>
   I Ahsan, **Hyunwook. Yu**, J. Kim, M. Kim, <br>
   *WSDM 2026 (Short Paper)* | *ACM International Conference on Web Search and Data Mining* | *[BKCSA IF 3]*<br>
