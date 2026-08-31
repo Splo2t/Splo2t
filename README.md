@@ -22,6 +22,7 @@
 - **Mitigating the Morpheme Tokenization Bottleneck in Agglutinative Languages: A Korean Case Study with Interleave Attention**<br>
   **Hyunwook. Yu**, M. Kim, M. Kim, <br>
   *CIKM 2026* | *ACM International Conference on Information and Knowledge Management* | *[BKCSA IF 3]*<br>
+  **Selected for an Oral Presentation, CIKM 2026**
   <br>
   
 - **Not All Segmentation Is Equal: How Quality Filters Evaluate Structure**<br>
