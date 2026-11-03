@@ -22,15 +22,15 @@
 - **Mitigating the Morpheme Tokenization Bottleneck in Agglutinative Languages: A Korean Case Study with Interleave Attention**<br>
   **Hyunwook. Yu**, M. Kim, M. Kim, <br>
   *CIKM 2026* | *ACM International Conference on Information and Knowledge Management* | *[BKCSA IF 3]*<br>
-  **Selected for an Oral Presentation, CIKM 2026**
+  **Selected for an Oral Presentation, CIKM 2026** <br>
   [Paper](https://dl.acm.org/doi/10.1145/3799682.3841165) <br>
-  <br>
+  
   
 - **Not All Segmentation Is Equal: How Quality Filters Evaluate Structure**<br>
   M. Kim, **Hyunwook. Yu**, M. Kim, <br>
   *CIKM 2026 (Short Paper)* | *ACM International Conference on Information and Knowledge Management* | *[BKCSA IF 3]*<br>
   [Paper](https://dl.acm.org/doi/10.1145/3799682.3840071) <br>
-  <br>
+ 
   
 - **Forget and Explain: Transparent Verification of GNN Unlearning**<br>
   I Ahsan, **Hyunwook. Yu**, J. Kim, M. Kim, <br>
